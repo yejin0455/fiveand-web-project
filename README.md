@@ -47,7 +47,7 @@
 
 ![ProjectSketch](https://user-images.githubusercontent.com/70681797/162113061-b28a9c1d-11d1-4ab8-aac5-a28a5daa7bc7.png)
 
-### ERD
+
 
 ![IndexMVC](https://user-images.githubusercontent.com/70681797/162112934-d6c2d460-da35-4874-aecb-d05317ab658f.png)
 
